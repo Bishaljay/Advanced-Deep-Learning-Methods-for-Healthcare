@@ -62,5 +62,3 @@ This project may use publicly available datasets like:
 * TensorFlow or PyTorch
 * Jupyter Notebook
 * scikit-learn, pandas, matplotlib, seaborn, etc.
-
-If you’d like, I can generate the `requirements.txt` too — just let me know!
